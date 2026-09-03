@@ -1,4 +1,6 @@
 name: Ruff - Checks
+permissions:
+  contents: read
 on: push
 jobs:
   build:
